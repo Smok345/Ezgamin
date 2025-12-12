@@ -26,3 +26,6 @@ SELECT DISTINCT,"Instrukcja SELECT połączona z klauzulą DISTINCT. DISTINCT za
 ORDER BY,Służy do sortowania zwróconych wyników.
 Rodzaj DESC,Sortuje wyniki na podstawie kolumny Rodzaj w kolejności malejącej (DESC - Descending).
 
+<img width="1012" height="758" alt="obraz" src="https://github.com/user-attachments/assets/1f4a0ebd-cec3-4fed-8104-f93fb391f673" />
+
+
