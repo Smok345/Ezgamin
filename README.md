@@ -34,7 +34,7 @@ Rodzaj DESC,Sortuje wyniki na podstawie kolumny Rodzaj w kolejności malejącej 
 
 
 
-#Zadanie 4: 
+#Zadanie : 
 Cel: Wybór pól ID oraz Nazwa dla wyrobów, których nazwa zawiera słowo "Chałka".
 
 Kwerenda:
@@ -69,7 +69,8 @@ LIKE,Operator używany w klauzuli WHERE do wyszukiwania określonego wzorca w ko
 '%Chałka%',"Wzorzec wyszukiwania. Znak % (procent) jest symbolem wieloznacznym, który zastępuje dowolną sekwencję znaków (lub brak znaków). W tym przypadku oznacza to: znajdź wiersze, w których Nazwa zawiera słowo ""Chałka"" (może być coś przed i coś po)."
 
 
-<img width="755" height="716" alt="obraz" src="https://github.com/user-attachments/assets/1c1cb11f-df15-45ef-93d7-4c6809b64e09" />
+<img width="348" height="694" alt="obraz" src="https://github.com/user-attachments/assets/4e690fe9-36d6-4d96-8537-666b67a2eb20" />
+
 #Zadanie4:
 
 Cel: Wybór pola Rodzaj oraz obliczenie średniej ceny dla każdej grupy wyrobów, zaokrąglonej do dwóch miejsc po przecinku, z aliasem "Średnia cena".
