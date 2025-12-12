@@ -1,4 +1,4 @@
-#Zapytanie 1 do bazy danych:
+# Zapytanie 1 do bazy danych:
 
 
 SELECT Rodzaj, Nazwa, Gramatura, Cena
@@ -15,7 +15,7 @@ WHERE,"Służy do filtrowania wierszy. Określa warunek, który musi być spełn
 
 
 
-#Zadnaie2: 
+# Zadnaie2: 
 Cel: Wybór unikalnych, posortowanych malejąco rodzajów wyrobów.
 
 
@@ -34,7 +34,7 @@ Rodzaj DESC,Sortuje wyniki na podstawie kolumny Rodzaj w kolejności malejącej 
 
 
 
-Zadanie3:
+# Zadanie3:
 Cel: Wybór pól ID oraz Nazwa dla wyrobów, których nazwa zawiera słowo "Chałka".
 
 Kwerenda:
@@ -54,7 +54,7 @@ LIKE,Operator używany w klauzuli WHERE do wyszukiwania określonego wzorca w ko
 
 <img width="348" height="694" alt="obraz" src="https://github.com/user-attachments/assets/4e690fe9-36d6-4d96-8537-666b67a2eb20" />
 
-#Zadanie4:
+# Zadanie4:
 
 Cel: Wybór pola Rodzaj oraz obliczenie średniej ceny dla każdej grupy wyrobów, zaokrąglonej do dwóch miejsc po przecinku, z aliasem "Średnia cena".
 Komendy:
